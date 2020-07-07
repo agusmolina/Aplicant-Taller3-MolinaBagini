@@ -1,0 +1,553 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\103ac26e32d1c56fced9145e8d60ba0f\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\be95bb7ab3759d09f6625990d2b1440e\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0c095356d5f413b823603f8d45e8470c\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\519fdf62c8a65956db6ce533bcf2c662\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8481f181641985c1f7eab3ae66eb6dac\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b8292ada8b6eb9b5fd094060f23d80d3\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a8d868201228744686ff80139aba552a\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc58ac87aa8d5cf8f0ad62bab6771b83\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\09a4c7207e201ac18aa524c8b3477b21\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2127d5c4a1fdc1efc450ca17bb5b1313\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ad987e43c3832af08d33f390f61c4d9d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cf6122b3acc7d5dcd14ed908888b0cf8\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\46d8e366deb7dd7305d6cbb630dbeb71\jetified-play-services-measurement-sdk-17.4.3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc27f0892dbf5719c09cffc33fadcf5e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\578fe851c908d1a554d2d4af3a194413\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d6b961ea52ff9fefc22b90951a27baf\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9d523fa87a94321b20c30fb58dc9794e\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\06d24e543babe3e94ec2dd268e99ae93\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\01620393c43449753ec04eb1a7964a63\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d892fd3f8076cabb1bb129bd82234a0\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5bea2ac2a17a03df8f934d830636cb9\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\e10588676e6f3f9acb40d18cf06fb0a1\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\de888ab361d43f6223c9a7cb64401370\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc80b5d51a2c468c5ab8c2f17d7df6bb\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c256243b72a5144cd5678bf18d29816c\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b3ed8aad79f49b3bdf130b3540bee16a\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a91e1f40550590f7d2b914a1421fda98\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b432a82f4c84938793c9aa5ec9cc69b1\jetified-play-services-measurement-base-17.4.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5e09ed41bb4468ee92a5713f67b303eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0e4071af3525708b932330e333a093e6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee071266e3f26f45991a7128d7a687d6\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8238f3e94193fc0ec3af232850529b54\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1ec37c4ef912d7a50aebc221b865f56a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\649b917ee48e9623d6544fbb84d30837\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2bc05f0483f5ed593c97027f04ea115d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c3cfab12a0bccca3e834f95ceb3ecfe1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\36ddf8004c7d74bcf97cd9f664d2e32d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a657bbdf16c2a0b81ff83676f9ce3f2f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\88eb6bf879ab08ffb3a991916b169836\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1b849accb197a723699afe1f3b6ac4e6\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\3997717cb6fff706c748a4b7003948e6\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\478faca8b35ddf31eddd8de204f61155\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\13d3d2a8fe53f4945bbccfc3dc283b29\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7b058b0430c64a48465c454958e62875\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ae68116f2b7c1a1b886a14a3bd451423\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5da7bcb6dc23a270313150f459c56e8\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee4a2f55131ad83b169d3c35d2ab8691\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b0790a1938f03c34b9fb5f7d57e7b5a7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f1b8cecc408b3d31d146ece5e454bf2d\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\61f3aeefcc2c57558325fc28d04da654\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d67aa4c4d772ff4331326358ac511f9e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cbd3bdd515d834c50dd72111b7f759c3\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f180cdf270036853bdb9768e6bf8af1f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\63579edc906828cdb99d3978a54e6357\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d8a69bbb10f4cfca48eb8522b282b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d5d51136492967ef78dd2c7c72fa8079\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d45494b6181bc2c1160eceb1bbd0d44e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9bded5e17f1d6f6e7c0a004a52034393\jetified-grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fe7bfcc1ca09dfbca907a7c1d85979b1\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\be95bb7ab3759d09f6625990d2b1440e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\be95bb7ab3759d09f6625990d2b1440e\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8481f181641985c1f7eab3ae66eb6dac\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8481f181641985c1f7eab3ae66eb6dac\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a8d868201228744686ff80139aba552a\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a8d868201228744686ff80139aba552a\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc58ac87aa8d5cf8f0ad62bab6771b83\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc58ac87aa8d5cf8f0ad62bab6771b83\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\46d8e366deb7dd7305d6cbb630dbeb71\jetified-play-services-measurement-sdk-17.4.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\46d8e366deb7dd7305d6cbb630dbeb71\jetified-play-services-measurement-sdk-17.4.3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc27f0892dbf5719c09cffc33fadcf5e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc27f0892dbf5719c09cffc33fadcf5e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\de888ab361d43f6223c9a7cb64401370\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\de888ab361d43f6223c9a7cb64401370\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c256243b72a5144cd5678bf18d29816c\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c256243b72a5144cd5678bf18d29816c\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a91e1f40550590f7d2b914a1421fda98\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a91e1f40550590f7d2b914a1421fda98\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b432a82f4c84938793c9aa5ec9cc69b1\jetified-play-services-measurement-base-17.4.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b432a82f4c84938793c9aa5ec9cc69b1\jetified-play-services-measurement-base-17.4.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5e09ed41bb4468ee92a5713f67b303eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5e09ed41bb4468ee92a5713f67b303eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0e4071af3525708b932330e333a093e6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0e4071af3525708b932330e333a093e6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f180cdf270036853bdb9768e6bf8af1f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f180cdf270036853bdb9768e6bf8af1f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.proyectofinal.applicant2.ingreso_empleador
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:12:9-64
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:12:19-52
+activity#com.proyectofinal.applicant2.login_inicio
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:13:19-47
+activity#com.proyectofinal.applicant2.splash_applicant
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:15:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.proyectofinal.applicant2.ingreso_postulante
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:23:19-53
+activity#com.proyectofinal.applicant2.solicitud
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:24:19-44
+activity#com.proyectofinal.applicant2.login_modo
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:25:19-45
+activity#com.proyectofinal.applicant2.MainActivity
+ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml:27:13-41
+uses-sdk
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\103ac26e32d1c56fced9145e8d60ba0f\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\103ac26e32d1c56fced9145e8d60ba0f\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\be95bb7ab3759d09f6625990d2b1440e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\be95bb7ab3759d09f6625990d2b1440e\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0c095356d5f413b823603f8d45e8470c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0c095356d5f413b823603f8d45e8470c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\519fdf62c8a65956db6ce533bcf2c662\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\519fdf62c8a65956db6ce533bcf2c662\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8481f181641985c1f7eab3ae66eb6dac\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8481f181641985c1f7eab3ae66eb6dac\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b8292ada8b6eb9b5fd094060f23d80d3\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b8292ada8b6eb9b5fd094060f23d80d3\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a8d868201228744686ff80139aba552a\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a8d868201228744686ff80139aba552a\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc58ac87aa8d5cf8f0ad62bab6771b83\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc58ac87aa8d5cf8f0ad62bab6771b83\jetified-firebase-analytics-17.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\09a4c7207e201ac18aa524c8b3477b21\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\09a4c7207e201ac18aa524c8b3477b21\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2127d5c4a1fdc1efc450ca17bb5b1313\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2127d5c4a1fdc1efc450ca17bb5b1313\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ad987e43c3832af08d33f390f61c4d9d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ad987e43c3832af08d33f390f61c4d9d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cf6122b3acc7d5dcd14ed908888b0cf8\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cf6122b3acc7d5dcd14ed908888b0cf8\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\46d8e366deb7dd7305d6cbb630dbeb71\jetified-play-services-measurement-sdk-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\46d8e366deb7dd7305d6cbb630dbeb71\jetified-play-services-measurement-sdk-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc27f0892dbf5719c09cffc33fadcf5e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc27f0892dbf5719c09cffc33fadcf5e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\578fe851c908d1a554d2d4af3a194413\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\578fe851c908d1a554d2d4af3a194413\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d6b961ea52ff9fefc22b90951a27baf\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d6b961ea52ff9fefc22b90951a27baf\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9d523fa87a94321b20c30fb58dc9794e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9d523fa87a94321b20c30fb58dc9794e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\06d24e543babe3e94ec2dd268e99ae93\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\06d24e543babe3e94ec2dd268e99ae93\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\01620393c43449753ec04eb1a7964a63\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\01620393c43449753ec04eb1a7964a63\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d892fd3f8076cabb1bb129bd82234a0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d892fd3f8076cabb1bb129bd82234a0\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5bea2ac2a17a03df8f934d830636cb9\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5bea2ac2a17a03df8f934d830636cb9\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\e10588676e6f3f9acb40d18cf06fb0a1\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\e10588676e6f3f9acb40d18cf06fb0a1\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\de888ab361d43f6223c9a7cb64401370\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\de888ab361d43f6223c9a7cb64401370\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc80b5d51a2c468c5ab8c2f17d7df6bb\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc80b5d51a2c468c5ab8c2f17d7df6bb\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c256243b72a5144cd5678bf18d29816c\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c256243b72a5144cd5678bf18d29816c\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b3ed8aad79f49b3bdf130b3540bee16a\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b3ed8aad79f49b3bdf130b3540bee16a\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a91e1f40550590f7d2b914a1421fda98\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a91e1f40550590f7d2b914a1421fda98\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b432a82f4c84938793c9aa5ec9cc69b1\jetified-play-services-measurement-base-17.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b432a82f4c84938793c9aa5ec9cc69b1\jetified-play-services-measurement-base-17.4.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5e09ed41bb4468ee92a5713f67b303eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5e09ed41bb4468ee92a5713f67b303eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0e4071af3525708b932330e333a093e6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\0e4071af3525708b932330e333a093e6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee071266e3f26f45991a7128d7a687d6\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee071266e3f26f45991a7128d7a687d6\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8238f3e94193fc0ec3af232850529b54\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8238f3e94193fc0ec3af232850529b54\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1ec37c4ef912d7a50aebc221b865f56a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1ec37c4ef912d7a50aebc221b865f56a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\649b917ee48e9623d6544fbb84d30837\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\649b917ee48e9623d6544fbb84d30837\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2bc05f0483f5ed593c97027f04ea115d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\2bc05f0483f5ed593c97027f04ea115d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c3cfab12a0bccca3e834f95ceb3ecfe1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\c3cfab12a0bccca3e834f95ceb3ecfe1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\36ddf8004c7d74bcf97cd9f664d2e32d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\36ddf8004c7d74bcf97cd9f664d2e32d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a657bbdf16c2a0b81ff83676f9ce3f2f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a657bbdf16c2a0b81ff83676f9ce3f2f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\88eb6bf879ab08ffb3a991916b169836\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\88eb6bf879ab08ffb3a991916b169836\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1b849accb197a723699afe1f3b6ac4e6\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\1b849accb197a723699afe1f3b6ac4e6\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\3997717cb6fff706c748a4b7003948e6\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\3997717cb6fff706c748a4b7003948e6\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\bab9ebab73e15c170ce7345fce099c5d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\478faca8b35ddf31eddd8de204f61155\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\478faca8b35ddf31eddd8de204f61155\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\13d3d2a8fe53f4945bbccfc3dc283b29\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\13d3d2a8fe53f4945bbccfc3dc283b29\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7b058b0430c64a48465c454958e62875\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7b058b0430c64a48465c454958e62875\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ae68116f2b7c1a1b886a14a3bd451423\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ae68116f2b7c1a1b886a14a3bd451423\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5da7bcb6dc23a270313150f459c56e8\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a5da7bcb6dc23a270313150f459c56e8\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee4a2f55131ad83b169d3c35d2ab8691\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\ee4a2f55131ad83b169d3c35d2ab8691\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b0790a1938f03c34b9fb5f7d57e7b5a7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b0790a1938f03c34b9fb5f7d57e7b5a7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f1b8cecc408b3d31d146ece5e454bf2d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f1b8cecc408b3d31d146ece5e454bf2d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\61f3aeefcc2c57558325fc28d04da654\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\61f3aeefcc2c57558325fc28d04da654\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d67aa4c4d772ff4331326358ac511f9e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d67aa4c4d772ff4331326358ac511f9e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cbd3bdd515d834c50dd72111b7f759c3\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\cbd3bdd515d834c50dd72111b7f759c3\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f180cdf270036853bdb9768e6bf8af1f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\f180cdf270036853bdb9768e6bf8af1f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\63579edc906828cdb99d3978a54e6357\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\63579edc906828cdb99d3978a54e6357\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d8a69bbb10f4cfca48eb8522b282b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\8d8a69bbb10f4cfca48eb8522b282b3b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d5d51136492967ef78dd2c7c72fa8079\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d5d51136492967ef78dd2c7c72fa8079\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d45494b6181bc2c1160eceb1bbd0d44e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d45494b6181bc2c1160eceb1bbd0d44e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9bded5e17f1d6f6e7c0a004a52034393\jetified-grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9bded5e17f1d6f6e7c0a004a52034393\jetified-grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fe7bfcc1ca09dfbca907a7c1d85979b1\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fe7bfcc1ca09dfbca907a7c1d85979b1\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applicant2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applicant2\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.0.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\6d53440120b5fb0c5ec30cbc5c29f017\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9bded5e17f1d6f6e7c0a004a52034393\jetified-grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\9bded5e17f1d6f6e7c0a004a52034393\jetified-grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:14:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:18:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\5c743cfdcd03c42c7cdf41d39bd55dfc\jetified-firebase-firestore-21.4.3\AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\fc92d93661f911c7ac0d1580cbd4f441\jetified-play-services-measurement-sdk-api-17.4.3\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\7552d1bf292519500a68b6b8917a610f\jetified-play-services-measurement-impl-17.4.3\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b314c7c8a4c77174a97eb1be1c0ba0fd\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\dc5438d0f8f383cb60e554e5acc2cad0\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\b20330a9729d77de3002cffc29b309a5\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\a1b52234b14fc61a35a3d4c8ba25e6a9\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\590e6fef24c8ea88353acccd801b17cc\jetified-firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\d6b44b1130c546539709416865bd92a9\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\38338e67515d38bf6bced08c6f359a9d\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kirito\.gradle\caches\transforms-2\files-2.1\396e8908a599a1fb17458614992f3ea0\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ingreso_empleador">
+
+
+    <EditText
+        android:id="@+id/EditTextRazonSocial"
+        android:minLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="ingresar razon social" />
+
+
+    <EditText
+        android:id="@+id/EditTextCuit"
+        android:inputType="number"
+        android:minLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="ingresar cuit"/>
+
+    <EditText
+        android:id="@+id/EditTextFechaInicio"
+        android:maxLength="10"
+        android:minLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="31/12/1999" />
+
+
+    <EditText
+        android:id="@+id/EditTextTelefono"
+        android:inputType="number"
+        android:minLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="ingresar telefono"/>
+
+    <EditText
+        android:id="@+id/EditTextDireccion"
+        android:minLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="ingresar direccion"/>
+
+
+    <Button
+        android:id="@+id/ButtonGuardarEmpleador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:backgroundTint="@android:color/holo_purple"
+        android:layout_marginTop="20dp"
+        android:text="Guardar" />
+
+</LinearLayout>

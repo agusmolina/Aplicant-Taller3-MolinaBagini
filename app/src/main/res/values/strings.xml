@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Applicant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">""</string>
+    <string name="nav_header_subtitle">""</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar sesión</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Perfil</string>
+    <string name="menu_slideshow">Solicitud</string>
+    <string name="menu_logout">Cerrar sesion</string>
+
+
+    <string name="home_second">Home Second</string>
+
+    <string name="modo_postulente">postulante</string>
+    <string name="modo_empleador">empleador</string>
+
+
+
+</resources>

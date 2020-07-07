@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".login_modo">
+
+
+
+    <TextView
+        android:id="@+id/textViewTexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="¡¡Bienvenido!!"
+        android:textAlignment="center"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/TextViewNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextViewEmail"
+        android:text="Email"
+        android:textSize="18dp"
+        android:textColor="@color/colorPrimary"
+        android:visibility="gone"/>
+
+
+    <TextView
+        android:id="@+id/textViewTexto2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="Seleccionar modalidad"
+        android:textAlignment="center"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="18dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/RadioGroupModo"
+        android:textSize="18dp">
+
+        <RadioButton
+            android:id="@+id/RadioButtonPostulante"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:checked="false"
+            android:text="Postulante"
+            android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+        <RadioButton
+            android:id="@+id/RadioButtonEmpleador"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:checked="false"
+            android:text="Empleador"
+            android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/ButtonConfirmar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Confirmar"
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/ButtonCerrarSesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/holo_red_light"
+        android:text="Cerrar sesion"
+        android:textColor="#fff" />
+
+
+
+
+</LinearLayout>

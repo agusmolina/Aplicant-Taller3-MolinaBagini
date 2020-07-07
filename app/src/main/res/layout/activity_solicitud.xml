@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".solicitud">
+
+    <EditText
+        android:id="@+id/EditTextEmpleador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Empleador"
+        android:enabled="false"/>
+
+    <EditText
+        android:id="@+id/EditTextCuit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cuit"
+        android:enabled="false"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/EditTextFechaInicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="fechaInicio"
+        android:enabled="false"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/EditTextOficio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Oficio"
+        android:enabled="false"
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/EditTextModalidadOficio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ModalidadOficio"
+        android:enabled="false"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/ButtonSolicitar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:text="Aplicar solicitud" />
+
+    <Button
+        android:id="@+id/ButtonVolver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Volver" />
+
+</LinearLayout>
